@@ -83,7 +83,7 @@ Florida Universitaria
 🎓 Grado Medio SMR
 Florida Universitaria
 
-📚 Monitor de ocio y tiempo libre
+📚 Monitor de ocio y tiempo libre <br>
 🚑 Curso de emergencias y primeros auxilios
 
 ### 🌍 Idiomas
