@@ -8,9 +8,9 @@ Soy un Junior Full Stack Developer apasionado por la tecnología y el desarrollo
 
 Tengo formación en:
 
-🎓 Técnico en Sistemas Microinformáticos y Redes
-🎓 Desarrollo de Aplicaciones Web (DAW)
-🎓 Desarrollo de Aplicaciones Multiplataforma (DAM)
+🎓 Técnico en Sistemas Microinformáticos y Redes <br>
+🎓 Desarrollo de Aplicaciones Web (DAW)<br>
+🎓 Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
 
 Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo que me ha permitido desarrollar tanto habilidades técnicas como trabajo en equipo.
 
