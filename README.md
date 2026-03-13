@@ -54,8 +54,8 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
 Microsoft Office
 
 ### 💼 Experiencia Profesional
+#### Hiberus Tecnología
 💻 Full Stack Developer
- Hiberus Tecnología
 📅 03/2025 – 06/2025
 
 
