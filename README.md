@@ -50,6 +50,13 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
+#### 🧰 IDE & Tools
+
+<p>
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode"/>
+<img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea"/>
+</p>
+
 #### 📚 Otros conocimientos
 Microsoft Office
 
