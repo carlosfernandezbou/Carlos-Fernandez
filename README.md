@@ -24,7 +24,8 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
-⚙️ Frameworks & Tecnologías
+
+#### ⚙️ Frameworks & Tecnologías
 <p> 
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> 
@@ -32,14 +33,16 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> 
   <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony"/> 
 </p>
-☁️ DevOps & Herramientas
+
+#### ☁️ DevOps & Herramientas
 <p> 
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/> 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/> 
 </p>
-🎨 Frontend
+
+#### 🎨 Frontend
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
@@ -47,13 +50,11 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-📚 Otros conocimientos
-
+#### 📚 Otros conocimientos
 Microsoft Office
 
-💼 Experiencia Profesional
-💻 Full Stack Developer
-
+### 💼 Experiencia Profesional
+#### 💻 Full Stack Developer
 Hiberus Tecnología
 📅 03/2025 – 06/2025
 
