@@ -86,15 +86,22 @@ Florida Universitaria
 📚 Monitor de ocio y tiempo libre
 🚑 Curso de emergencias y primeros auxilios
 
-### Idiomas
+### 🌍 Idiomas
+
 🇪🇸 Castellano — Nativo  
 🇪🇸 Valenciano — Nativo  
-🇬🇧 Inglés — Nivel medio
+🇬🇧 Inglés — Nivel medio  
+
+---
 
 ### 📫 Contacto
-📍 Catarroja, Valencia <br>
-📧 carlosfb2005@gmail.com <br>
-📱 +34 692 913 506 <br>
 
-### Más informacion
+📍 Catarroja, Valencia  
+📧 carlosfb2005@gmail.com  
+📱 +34 692 913 506  
+
+---
+
+### ℹ️ Más información
+
 🚗 Carné de conducir y vehículo propio
