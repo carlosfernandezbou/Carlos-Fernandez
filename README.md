@@ -7,8 +7,6 @@
 Soy un Junior Full Stack Developer apasionado por la tecnología y el desarrollo de software. Me gusta construir aplicaciones eficientes, escalables y bien estructuradas que resuelvan problemas reales.
 
 Tengo formación en:
-
-🎓 Técnico en Sistemas Microinformáticos y Redes <br>
 🎓 Desarrollo de Aplicaciones Web (DAW)<br>
 🎓 Desarrollo de Aplicaciones Multiplataforma (DAM)<br>
 
@@ -103,9 +101,6 @@ Florida Universitaria
 📚 Monitor de ocio y tiempo libre
 🚑 Curso de emergencias y primeros auxilios
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=carlosfernandezbou&show_icons=true&theme=tokyonight"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfernandezbou&layout=compact&theme=tokyonight"/> </p>
-🌍 Idiomas
 
 🇪🇸 Castellano — Nativo
 🇪🇸 Valenciano — Nativo
