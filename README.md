@@ -24,7 +24,7 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
 ⚙️ Frameworks & Tecnologías
 <p> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/> <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony"/> </p>
 ☁️ DevOps & Herramientas
-<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka"/> </p>
+<p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/> </p>
 🎨 Frontend
 
 HTML · CSS · Bootstrap · JavaScript
