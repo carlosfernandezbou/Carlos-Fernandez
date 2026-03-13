@@ -54,17 +54,10 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
 Microsoft Office
 
 ### 💼 Experiencia Profesional
-#### 💻 Full Stack Developer
-Hiberus Tecnología
+💻 Full Stack Developer
+ Hiberus Tecnología
 📅 03/2025 – 06/2025
 
-Desarrollo de aplicaciones web
-
-Backend con Java y Spring Boot
-
-Trabajo con frameworks frontend
-
-Desarrollo colaborativo en equipo
 
 🖥️ Técnico Microinformático
 
