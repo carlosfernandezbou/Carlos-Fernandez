@@ -89,7 +89,11 @@ Microsoft Office
 
 #### Hiberus Tecnología
 💻 Full Stack Developer  
-📅 03/2025 – 06/2025  
+📅 03/2025 – 06/2025 
+
+### Centogene
+💻 Full Stack Developer  
+📅 01/2026 – 06/2026
 
 #### Ayuntamiento de Catarroja
 🖥️ Técnico Microinformático  
