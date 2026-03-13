@@ -92,9 +92,9 @@ Florida Universitaria
 🇬🇧 Inglés — Nivel medio
 
 ### 📫 Contacto
-📍 Catarroja, Valencia
-📧 carlosfb2005@gmail.com
-📱 +34 692 913 506
+📍 Catarroja, Valencia <br>
+📧 carlosfb2005@gmail.com <br>
+📱 +34 692 913 506 <br>
 
 ### Más informacion
 🚗 Carné de conducir y vehículo propio
