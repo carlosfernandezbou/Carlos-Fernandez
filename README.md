@@ -79,8 +79,6 @@ Florida Universitaria
 📚 Monitor de ocio y tiempo libre
 🚑 Curso de emergencias y primeros auxilios
 
-<br>
-
 ### Idiomas
 Castellano — Nativo
 Valenciano — Nativo
