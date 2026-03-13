@@ -55,34 +55,18 @@ Microsoft Office
 
 ### 💼 Experiencia Profesional
 #### Hiberus Tecnología
-💻 Full Stack Developer
-📅 03/2025 – 06/2025
+💻 Full Stack Developer <br>
+📅 03/2025 – 06/2025 <br>
 
+#### Ayuntamiento de Catarroja
+🖥️ Técnico Microinformático <br>
+📅 03/2023 – 06/2023 <br>
 
-🖥️ Técnico Microinformático
-
-Ayuntamiento de Catarroja
-📅 03/2023 – 06/2023
-
-Soporte técnico a usuarios
-
-Resolución de incidencias hardware/software
-
-Mantenimiento de sistemas
-
+#### Jardín de Azahares
 🍽️ Camarero en eventos y catering
-
-Jardín de Azahares
 📅 02/2023 – Actualidad
 
-Atención al cliente
-
-Trabajo en eventos de gran volumen
-
-Organización y responsabilidad
-
-🎓 Formación
-
+### 🎓 Formación
 🎓 Grado Superior DAM
 Florida Universitaria
 
@@ -96,9 +80,9 @@ Florida Universitaria
 🚑 Curso de emergencias y primeros auxilios
 
 
-🇪🇸 Castellano — Nativo
-🇪🇸 Valenciano — Nativo
-🇬🇧 Inglés — Nivel medio
+Castellano — Nativo
+Valenciano — Nativo
+Inglés — Nivel medio
 
 📫 Contacto
 
