@@ -84,11 +84,10 @@ Castellano — Nativo
 Valenciano — Nativo
 Inglés — Nivel medio
 
-📫 Contacto
-
+### 📫 Contacto
 📍 Catarroja, Valencia
 📧 carlosfb2005@gmail.com
-
 📱 +34 692 913 506
 
+### Más informacion
 🚗 Carné de conducir y vehículo propio
