@@ -87,9 +87,9 @@ Florida Universitaria
 🚑 Curso de emergencias y primeros auxilios
 
 ### Idiomas
-Castellano — Nativo
-Valenciano — Nativo
-Inglés — Nivel medio
+🇪🇸 Castellano — Nativo  
+🇪🇸 Valenciano — Nativo  
+🇬🇧 Inglés — Nivel medio
 
 ### 📫 Contacto
 📍 Catarroja, Valencia
