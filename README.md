@@ -1,7 +1,7 @@
 # Carlos-Fernandez
 🚀 Carlos Fernández Bou
 Junior Full Stack Developer | Valencia, España
-<p align="center"> <a href="[https://linkedin.com](https://www.linkedin.com/in/carlos-fern%C3%A1ndez-bou-7b0218335/)"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="[https://github.com](https://github.com/carlosfernandezbou?tab=repositories)"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="mailto:carlosfb2005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
+<p align="center"> <a href="https://www.linkedin.com/in/carlos-fern%C3%A1ndez-bou-7b0218335"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/> </a> <a href="https://github.com/carlosfernandezbou?tab=repositories"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/> </a> <a href="mailto:carlosfb2005@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </p>
 👨‍💻 Sobre mí
 
 Soy un Junior Full Stack Developer apasionado por la tecnología y el desarrollo de software. Me gusta construir aplicaciones eficientes, escalables y bien estructuradas que resuelvan problemas reales.
