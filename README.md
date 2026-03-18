@@ -87,15 +87,15 @@ Microsoft Office
 
 ### 💼 Experiencia Profesional
 
-#### Hiberus Tecnología
+#### Hiberus Tecnología (Prácticas)
 💻 Full Stack Developer  
 📅 03/2025 – 06/2025 
 
-### Centogene
+### Centogene (Prácticas)
 💻 Full Stack Developer  
-📅 01/2026 – 06/2026
+📅 04/2026 – 07/2026
 
-#### Ayuntamiento de Catarroja
+#### Ayuntamiento de Catarroja (Prácticas)
 🖥️ Técnico Microinformático  
 📅 03/2023 – 06/2023  
 
