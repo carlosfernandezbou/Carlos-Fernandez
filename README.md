@@ -1,4 +1,4 @@
-<h1 align="center">Carlos Fernández Bou</h1>
+<h1 align="center">Carlos Fernandez Bou</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
 
 <p align="center">
