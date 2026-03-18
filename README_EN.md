@@ -15,27 +15,27 @@
 
 ---
 
-### 👨‍💻 Sobre mí
+### 👨‍💻 About Me
 
-Soy un **Junior Full Stack Developer** apasionado por la tecnología y el desarrollo de software.  
-Me gusta construir aplicaciones eficientes, escalables y bien estructuradas que resuelvan problemas reales.
+I am a **Junior Full Stack Developer** passionate about technology and software development.  
+I enjoy building efficient, scalable, and well-structured applications that solve real-world problems.
 
-Tengo formación en:
+I have training in:
 
-🎓 Desarrollo de Aplicaciones Web (DAW)  
-🎓 Desarrollo de Aplicaciones Multiplataforma (DAM)
+🎓 Web Application Development (DAW)  
+🎓 Multiplatform Application Development (DAM)
 
-Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo que me ha permitido desarrollar tanto habilidades técnicas como trabajo en equipo.
+Additionally, I have professional experience in development and technical support, which has allowed me to develop both technical and teamwork skills.
 
-📍 Catarroja, Valencia (España)  
-💼 Buscando oportunidades como **Junior Developer**  
-🌱 Aprendiendo nuevas tecnologías continuamente  
+📍 Catarroja, Valencia (Spain)  
+💼 Looking for opportunities as a **Junior Developer**  
+🌱 Continuously learning new technologies  
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### 💻 Lenguajes de Programación
+#### 💻 Programming Languages
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -44,7 +44,7 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
 
-#### ⚙️ Frameworks & Tecnologías
+#### ⚙️ Frameworks & Technologies
 
 <p>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -54,7 +54,7 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
 <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony"/>
 </p>
 
-#### ☁️ DevOps & Herramientas
+#### ☁️ DevOps & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
@@ -79,52 +79,52 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea"/>
 </p>
 
-#### 📚 Otros conocimientos
+#### 📚 Other Skills
 
 Microsoft Office
 
 ---
 
-### 💼 Experiencia Profesional
+### 💼 Professional Experience
 
-#### Hiberus Tecnología (Prácticas)
+#### Hiberus Tecnología (Internship)
 💻 Full Stack Developer  
 📅 03/2025 – 06/2025 
 
-### Centogene (Prácticas)
+### Centogene (Internship)
 💻 Full Stack Developer  
 📅 04/2026 – 07/2026
 
-#### Ayuntamiento de Catarroja (Prácticas)
-🖥️ Técnico Microinformático  
+#### Catarroja City Council (Internship)
+🖥️ IT Support Technician  
 📅 03/2023 – 06/2023  
 
 #### Jardín de Azahares
-🍽️ Camarero en eventos y catering  
-📅 02/2023 – Actualidad  
+🍽️ Event and Catering Waiter  
+📅 02/2023 – Present  
 
 ---
 
-### 🎓 Formación
+### 🎓 Education
 
-🎓 Grado Superior DAM — Florida Universitaria  
-🎓 Grado Superior DAW — Florida Universitaria  
-🎓 Grado Medio SMR — Florida Universitaria  
+🎓 Higher Degree in Multiplatform Application Development (DAM) — Florida Universitaria  
+🎓 Higher Degree in Web Application Development (DAW) — Florida Universitaria  
+🎓 Intermediate Degree in Microcomputer Systems and Networks (SMR) — Florida Universitaria  
 
-📚 Monitor de ocio y tiempo libre  
-🚑 Curso de emergencias y primeros auxilios  
-
----
-
-### 🌍 Idiomas
-
-🇪🇸 Castellano — Nativo  
-🇪🇸 Valenciano — Nativo  
-🇬🇧 Inglés — Nivel medio  
+📚 Leisure and Free Time Instructor  
+🚑 Emergency and First Aid Course  
 
 ---
 
-### 📫 Contacto
+### 🌍 Languages
+
+🇪🇸 Spanish — Native  
+🇪🇸 Valencian — Native  
+🇬🇧 English — Intermediate  
+
+---
+
+### 📫 Contact
 
 📍 Catarroja, Valencia  
 📧 carlosfb2005@gmail.com  
@@ -132,6 +132,6 @@ Microsoft Office
 
 ---
 
-### ℹ️ Más información
+### ℹ️ Additional Information
 
-🚗 Carné de conducir y vehículo propio
+🚗 Driving license and own vehicle
