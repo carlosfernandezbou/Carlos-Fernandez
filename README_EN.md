@@ -91,7 +91,7 @@ Microsoft Office
 💻 Full Stack Developer  
 📅 03/2025 – 06/2025 
 
-### Centogene (Internship)
+#### Centogene (Internship)
 💻 Full Stack Developer  
 📅 04/2026 – 07/2026
 
