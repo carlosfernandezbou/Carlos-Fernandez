@@ -39,7 +39,6 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
 
 <p>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 </p>
@@ -47,6 +46,7 @@ Además, cuento con experiencia profesional en desarrollo y soporte técnico, lo
 #### ⚙️ Frameworks & Tecnologías
 
 <p>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/SpringCloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
@@ -91,7 +91,7 @@ Microsoft Office
 💻 Full Stack Developer  
 📅 03/2025 – 06/2025 
 
-### Centogene (Prácticas)
+#### Centogene (Prácticas)
 💻 Full Stack Developer  
 📅 04/2026 – 07/2026
 
